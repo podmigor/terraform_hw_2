@@ -71,5 +71,5 @@ variable "disk_type" {
 variable "disk_size" {
   description = "Instance disk size"
   type        = string
-  default     = "8"
+  default     = "10"
 }
